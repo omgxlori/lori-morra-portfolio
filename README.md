@@ -20,7 +20,7 @@ The following animation shows the web application's appearance and functionality
 ![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./src/assets/project-walkthrough.gif)
 
 ## Link
-My portfolio can be accessed through this link: https://lori-morra-portfolio.netlify.app/about](https://6723b81c3863af000864e834--lori-morra-portfolio.netlify.app/about
+My portfolio can be accessed through this link: https://6723b81c3863af000864e834--lori-morra-portfolio.netlify.app/about
 
 ## Features
 
